@@ -63,7 +63,8 @@ FROM funnel;
 
 
 ## 📊 Funnel Dashboard Preview
-> *(Add screenshot here)*
+
+****************
 
 ## 📈 Key Insights
 - Biggest drop-off: **Add to Cart → Checkout (35%)**

@@ -31,8 +31,7 @@ Source: Kaggle A/B Testing Dataset
 - **Confidence interval (95%)**
 
 ## 📜 Notebook
-#############################
-
+""
 import pandas as pd
 import scipy.stats as stats
 
@@ -56,7 +55,7 @@ print("CR_B:", cr_B)
 print("Lift:", (cr_B - cr_A) / cr_A)
 print("p-value:", p)
 
-#######################
+""
 ## 📈 Key Findings
 - Variant B CR = **4.82%**  
 - Variant A CR = **4.29%**  
